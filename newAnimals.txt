@@ -1,0 +1,24 @@
+Bear (Total: 4)
+Name: , Age: 7
+Name: Tiger names:, Age: 25
+Name: Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert, Age: 4
+Name: Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker, Age: 4
+
+Hyena (Total: 4)
+Name: Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah, Age: 4
+Name: , Age: 12
+Name: , Age: 4
+Name: Unnamed, Age: 8
+
+Lion (Total: 4)
+Name: Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil, Age: 6
+Name: , Age: 12
+Name: , Age: 22
+Name: Unnamed, Age: 4
+
+Tiger (Total: 4)
+Name: Unnamed, Age: 2
+Name: Unnamed, Age: 4
+Name: Unnamed, Age: 18
+Name: Unnamed, Age: 3
+
